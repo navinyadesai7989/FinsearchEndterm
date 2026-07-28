@@ -74,8 +74,3 @@ contracts, where a single flat volatility stops matching the real
 volatility surface (skew + term structure). Near the money, error stays
 in the 6-19% MAPE range across maturities. See
 `outputs/error_vs_moneyness.png`.
-
-## Author
-
-[Your Name] — [Course / Institution] — End Term Report, Option Pricing
-Models and Their Accuracy.
